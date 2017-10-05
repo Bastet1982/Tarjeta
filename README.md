@@ -73,6 +73,8 @@ if(totalSum%10 =0){
 ```
 
 
+![Diagrama](diagrama.jpg);
+
 
 
 
